@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShamaeelAhmed
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and pythonic stuff
 - 🌱 I’m currently learning python and some frameworks as well
 
 
