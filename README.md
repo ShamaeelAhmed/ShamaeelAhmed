@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShamaeelAhmed
 - 👀I Just a normal programmer who wants to build stuff and likes ANIME a lot
-- 🌱 I’m currently learning front-end web dev
+- 🌱 I’m currently learning python but am a front-end web developer
 
 
 <!---
