@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShamaeelAhmed
-- 👀I Just a normal programmer who wants to build stuff and likes ANIME a lot
+- 👀I Just a 0.1x programmer 
 - 🌱 I’m currently learning python but am a front-end web developer
-
 
 <!---
 ShamaeelAhmed/ShamaeelAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
