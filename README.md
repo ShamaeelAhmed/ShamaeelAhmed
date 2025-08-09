@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShamaeelAhmed
-- 👀I Just a 0.1x programmer 
+- 👀Just a 0.1x programmer 
 - 🌱 I’m currently learning python but am a front-end web developer
 
 <!---
